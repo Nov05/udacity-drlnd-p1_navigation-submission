@@ -56,5 +56,7 @@
 	* The project folder [`p1_navigation`](https://github.com/Nov05/udacity-deep-reinforcement-learning/tree/master/p1_navigation) (which contains checkpoints `dqn_checkpoint_2000.pth` and `dueling_dqn_checkpoint_2000.pth`)  
 	* [Video recording](https://youtu.be/SwAwWLsa9f0?t=35) (which demonstrates how trained models are run on the local machine)
 
+---
+
 **P.S.**  
 👉 Go to [the main repo](https://github.com/nov05/udacity-deep-reinforcement-learning) of the course
